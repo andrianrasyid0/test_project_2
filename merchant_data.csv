@@ -1,0 +1,501 @@
+merchant_id,name,city,category,revenue,rating,is_active,total_transactions,joined_date
+MRC-00001,Pak Budi,Surabaya,Health & Beauty,,3.9,True,665,2023-08-27
+MRC-00002,Kios Sejahtera,Palembang,Electronics,1050000.0,,True,784,2022-10-24
+MRC-00003,Kedai Utama,Medan,Fashion,8500000.0,3.7,True,566,2024-09-10
+MRC-00004,Toko Mandiri,Bandung,Home & Living,11200000.0,4.4,True,1071,2021-12-30
+MRC-00005,Berkah Store,Jakarta,Health & Beauty,10550000.0,4.6,True,391,2019-01-11
+MRC-00006,Toko Sejahtera,Jakarta,Food & Beverage,19700000.0,4.9,False,1465,2022-03-04
+MRC-00007,Warung Sentosa,Jakarta,Sports,14650000.0,4.1,True,337,2022-05-07
+MRC-00008,Studio Sejahtera,Makassar,Home & Living,9350000.0,4.1,True,682,2024-06-28
+MRC-00009,Mandiri Store,Bandung,Education,4950000.0,3.7,True,18,2020-08-31
+MRC-00010,Indah Store,Medan,Health & Beauty,700000.0,3.7,True,719,2024-01-04
+MRC-00011,Kedai Utama,Jakarta,Electronics,9000000.0,4.1,True,292,2024-06-06
+MRC-00012,Barokah Store,Palembang,Fashion,6900000.0,4.4,True,193,2022-11-14
+MRC-00013,Makmur Store,Semarang,Education,7450000.0,4.7,True,159,2022-09-23
+MRC-00014,Butik Jaya,Jakarta,Home & Living,1150000.0,3.8,False,571,2023-03-26
+MRC-00015,Studio Jaya,Jakarta,Food & Beverage,1450000.0,5.0,True,698,2024-02-09
+MRC-00016,Segar Store,Jakarta,Food & Beverage,19050000.0,4.1,True,544,2022-08-11
+MRC-00017,Mandiri Store,Jakarta,Fashion,5100000.0,4.2,True,475,2021-02-11
+MRC-00018,Indah Store,Surabaya,Home & Living,12200000.0,3.8,True,1403,2021-09-05
+MRC-00019,Depot Sentosa,Surabaya,Automotive,5550000.0,2.9,True,281,2023-04-18
+MRC-00020,Studio Jaya,Jakarta,Food & Beverage,5550000.0,4.7,True,649,2021-08-14
+MRC-00021,Bu Rina,Bandung,Electronics,16600000.0,4.6,True,1208,2023-08-10
+MRC-00022,Pak Agus,Jakarta,Fashion,2900000.0,4.0,True,429,2019-06-28
+MRC-00023,Mandiri Store,Jakarta,Education,6000000.0,4.2,True,575,2022-07-27
+MRC-00024,Toko Berkah,Surabaya,Home & Living,3050000.0,4.5,True,515,2024-04-21
+MRC-00025,Pak Dedi,Surabaya,Home & Living,3150000.0,3.3,True,186,2023-04-11
+MRC-00026,Jaya Store,Semarang,Fashion,3700000.0,3.9,True,462,2023-05-01
+MRC-00027,Toko Mulia,Jakarta,Fashion,7000000.0,4.6,True,68,2020-09-15
+MRC-00028,Abadi Store,Surabaya,Food & Beverage,3000000.0,3.5,True,264,2024-07-21
+MRC-00029,Pak Joko,Bandung,Food & Beverage,24300000.0,4.4,True,702,2019-06-01
+MRC-00030,Butik Barokah,Jakarta,Home & Living,1800000.0,3.5,True,659,2020-06-01
+MRC-00031,Kios Utama,Bandung,Home & Living,4300000.0,4.5,False,620,2024-08-19
+MRC-00032,Bu Dewi,Jakarta,Automotive,3150000.0,4.2,True,410,2022-09-21
+MRC-00033,Kedai Sentosa,Jakarta,Automotive,30550000.0,3.3,True,402,2020-02-16
+MRC-00034,Pak Dedi,Palembang,Electronics,6800000.0,4.8,True,758,2023-12-09
+MRC-00035,Depot Mulia,Palembang,Health & Beauty,,,True,772,2020-02-13
+MRC-00036,Lestari Store,Semarang,Education,900000.0,3.8,True,97,2024-11-24
+MRC-00037,Pak Rudi,Jakarta,Home & Living,7400000.0,4.3,True,434,2024-02-15
+MRC-00038,Pak Dedi,Jakarta,Food & Beverage,15650000.0,4.8,True,391,2019-03-04
+MRC-00039,Pak Joko,Medan,Fashion,5900000.0,3.6,True,438,2020-08-13
+MRC-00040,Gerai Segar,Surabaya,Food & Beverage,19350000.0,4.2,True,204,2023-08-07
+MRC-00041,Butik Mulia,Jakarta,Education,,4.4,True,438,2020-09-24
+MRC-00042,Jaya Store,Surabaya,Electronics,29200000.0,,True,1460,2019-11-03
+MRC-00043,Butik Sejahtera,Jakarta,Food & Beverage,85000000.0,4.3,True,510,2024-04-07
+MRC-00044,Pak Hendra,Makassar,Health & Beauty,3450000.0,4.0,True,63,2021-12-21
+MRC-00045,Lestari Store,Jakarta,Electronics,3150000.0,3.7,True,47,2022-10-18
+MRC-00046,Pak Hendra,Bandung,Fashion,30800000.0,4.2,True,748,2023-06-17
+MRC-00047,Kios Makmur,Jakarta,Food & Beverage,35850000.0,3.6,True,255,2019-11-25
+MRC-00048,Kios Utama,Surabaya,Health & Beauty,2850000.0,2.6,False,300,2022-09-07
+MRC-00049,Bu Wati,Bandung,Electronics,3250000.0,4.4,True,122,2024-12-25
+MRC-00050,Bu Wati,Jakarta,Health & Beauty,3800000.0,4.7,False,536,2023-04-06
+MRC-00051,Sejahtera Store,Palembang,Electronics,1050000.0,2.9,True,226,2022-07-21
+MRC-00052,Depot Jaya,Medan,Home & Living,1750000.0,3.6,False,170,2024-06-21
+MRC-00053,Toko Makmur,Palembang,Electronics,1600000.0,4.5,True,647,2019-05-28
+MRC-00054,Bu Sari,Makassar,Electronics,2100000.0,5.0,True,160,2019-10-08
+MRC-00055,Bu Wati,Bandung,Sports,5150000.0,4.2,True,188,2021-08-19
+MRC-00056,Pak Budi,Palembang,Fashion,7100000.0,3.8,True,94,2022-03-23
+MRC-00057,Mulia Store,Jakarta,Food & Beverage,34600000.0,4.1,True,642,2021-07-20
+MRC-00058,Pak Hendra,Jakarta,Food & Beverage,1600000.0,5.0,True,17,2020-01-06
+MRC-00059,Bu Rina,Jakarta,Health & Beauty,17550000.0,3.8,True,1460,2023-11-13
+MRC-00060,Bu Ani,Jakarta,Electronics,4150000.0,3.8,True,442,2020-02-08
+MRC-00061,Pak Rudi,Surabaya,Health & Beauty,5050000.0,3.9,False,542,2020-02-16
+MRC-00062,Kios Indah,Jakarta,Food & Beverage,12100000.0,3.7,False,1069,2023-12-23
+MRC-00063,Pak Joko,Semarang,Food & Beverage,1400000.0,4.3,False,154,2020-11-12
+MRC-00064,Kios Mulia,Surabaya,Food & Beverage,8500000.0,5.0,True,664,2022-05-11
+MRC-00065,Depot Berkah,Jakarta,Fashion,6550000.0,4.4,True,12,2019-04-29
+MRC-00066,Pak Rudi,Bandung,Electronics,9700000.0,4.1,True,33,2019-07-08
+MRC-00067,Sentosa Store,Jakarta,Fashion,7600000.0,4.0,True,300,2022-08-21
+MRC-00068,Toko Segar,Semarang,Fashion,102600000.0,3.3,True,1420,2019-08-18
+MRC-00069,Bu Rina,Jakarta,Sports,2500000.0,4.7,True,644,2022-04-16
+MRC-00070,Bu Fitri,Yogyakarta,Fashion,2800000.0,4.2,True,344,2023-01-08
+MRC-00071,Pak Dedi,Medan,Fashion,2550000.0,4.1,True,632,2023-03-16
+MRC-00072,Butik Indah,Jakarta,Health & Beauty,2750000.0,5.0,False,443,2023-10-31
+MRC-00073,Warung Mandiri,Jakarta,Fashion,2500000.0,4.4,True,148,2020-08-19
+MRC-00074,Abadi Store,Semarang,Electronics,22450000.0,3.8,False,784,2021-09-27
+MRC-00075,Toko Lestari,Medan,Home & Living,29600000.0,4.0,True,951,2024-12-15
+MRC-00076,Lestari Store,Medan,Education,2700000.0,4.8,True,49,2023-08-15
+MRC-00077,Sejahtera Store,Medan,Food & Beverage,,4.3,True,243,2021-01-07
+MRC-00078,Gerai Lestari,Jakarta,Sports,9450000.0,3.4,True,159,2020-11-27
+MRC-00079,Pak Budi,Surabaya,Fashion,2750000.0,4.7,True,185,2020-12-18
+MRC-00080,Depot Segar,Jakarta,Food & Beverage,11500000.0,3.8,True,559,2019-11-20
+MRC-00081,Kedai Makmur,Makassar,Fashion,6850000.0,5.0,True,92,2023-04-16
+MRC-00082,Pak Hendra,Bandung,Automotive,850000.0,4.8,True,260,2021-09-13
+MRC-00083,Bu Sari,Jakarta,Fashion,34500000.0,4.0,True,1018,2024-07-31
+MRC-00084,Sentosa Store,Jakarta,Fashion,46500000.0,4.9,False,229,2020-08-09
+MRC-00085,Bu Wati,Jakarta,Electronics,2550000.0,4.2,True,183,2021-08-09
+MRC-00086,Gerai Utama,Jakarta,Food & Beverage,3350000.0,4.7,True,216,2024-03-03
+MRC-00087,Mulia Store,Medan,Food & Beverage,7550000.0,4.5,True,238,2021-11-06
+MRC-00088,Bu Dewi,Bandung,Food & Beverage,8050000.0,3.7,True,469,2024-02-26
+MRC-00089,Abadi Store,Makassar,Food & Beverage,11850000.0,3.8,True,307,2021-11-11
+MRC-00090,Pak Hendra,Surabaya,Food & Beverage,60100000.0,4.8,True,1043,2019-02-08
+MRC-00091,Gerai Sejahtera,Jakarta,Food & Beverage,4350000.0,4.0,False,635,2024-03-20
+MRC-00092,Butik Berkah,Medan,Electronics,2050000.0,4.0,True,268,2022-03-24
+MRC-00093,Bu Fitri,Medan,Food & Beverage,1000000.0,3.7,False,211,2020-10-09
+MRC-00094,Gerai Berkah,Bandung,Fashion,2200000.0,4.4,False,611,2019-10-30
+MRC-00095,Warung Sejahtera,Medan,Sports,5150000.0,5.0,True,738,2023-12-15
+MRC-00096,Warung Segar,Surabaya,Fashion,46400000.0,3.6,True,916,2022-11-16
+MRC-00097,Jaya Store,Surabaya,Electronics,2850000.0,4.2,False,280,2022-05-10
+MRC-00098,Pak Dedi,Surabaya,Food & Beverage,7050000.0,5.0,True,384,2023-10-04
+MRC-00099,Prima Store,Jakarta,Food & Beverage,5250000.0,4.2,True,747,2021-10-21
+MRC-00100,Sejahtera Store,Jakarta,Food & Beverage,22400000.0,4.4,False,1090,2024-02-15
+MRC-00101,Bu Sari,Jakarta,Food & Beverage,111800000.0,3.6,True,1159,2022-05-22
+MRC-00102,Pak Agus,Bandung,Food & Beverage,2850000.0,4.4,True,272,2021-03-26
+MRC-00103,Pak Hendra,Jakarta,Food & Beverage,2950000.0,4.1,True,789,2023-04-25
+MRC-00104,Depot Indah,Surabaya,Food & Beverage,18850000.0,4.7,True,1092,2024-06-02
+MRC-00105,Sejahtera Store,Makassar,Food & Beverage,12200000.0,4.9,True,931,2020-03-12
+MRC-00106,Toko Prima,Jakarta,Fashion,49400000.0,5.0,True,805,2021-08-29
+MRC-00107,Barokah Store,Surabaya,Food & Beverage,,4.5,True,656,2023-04-12
+MRC-00108,Mulia Store,Medan,Fashion,3500000.0,4.4,True,102,2023-01-10
+MRC-00109,Segar Store,Jakarta,Fashion,10900000.0,4.3,True,814,2022-04-26
+MRC-00110,Bu Ani,Jakarta,Health & Beauty,20350000.0,4.0,True,897,2022-04-24
+MRC-00111,Bu Dewi,Jakarta,Food & Beverage,14400000.0,4.4,True,873,2019-03-31
+MRC-00112,Pak Budi,Jakarta,Home & Living,9900000.0,4.0,True,767,2023-06-10
+MRC-00113,Studio Utama,Palembang,Electronics,19350000.0,4.3,True,1470,2022-01-29
+MRC-00114,Indah Store,Semarang,Food & Beverage,21900000.0,4.9,True,742,2019-02-03
+MRC-00115,Gerai Sejahtera,Bandung,Sports,28300000.0,3.6,True,1056,2019-07-20
+MRC-00116,Depot Makmur,Makassar,Sports,11700000.0,4.8,False,1096,2024-07-27
+MRC-00117,Makmur Store,Semarang,Food & Beverage,4400000.0,4.9,True,568,2022-03-18
+MRC-00118,Abadi Store,Jakarta,Food & Beverage,6400000.0,4.1,True,787,2021-07-31
+MRC-00119,Toko Abadi,Makassar,Home & Living,22900000.0,3.0,True,477,2022-12-14
+MRC-00120,Pak Budi,Bandung,Health & Beauty,2000000.0,3.9,True,88,2021-06-16
+MRC-00121,Warung Jaya,Semarang,Food & Beverage,8350000.0,4.9,True,642,2021-02-17
+MRC-00122,Kedai Mulia,Makassar,Food & Beverage,3350000.0,4.2,True,588,2021-10-23
+MRC-00123,Abadi Store,Jakarta,Fashion,5550000.0,3.7,True,300,2020-07-14
+MRC-00124,Studio Lestari,Jakarta,Fashion,24950000.0,3.9,True,751,2020-02-02
+MRC-00125,Kedai Mulia,Jakarta,Electronics,,4.7,True,60,2019-06-11
+MRC-00126,Studio Maju,Surabaya,Fashion,5650000.0,4.5,True,364,2022-06-19
+MRC-00127,Maju Store,Semarang,Fashion,1050000.0,4.1,True,114,2023-12-11
+MRC-00128,Utama Store,Makassar,Health & Beauty,13150000.0,4.0,True,310,2019-05-17
+MRC-00129,Bu Fitri,Jakarta,Food & Beverage,11650000.0,4.0,True,584,2023-02-03
+MRC-00130,Pak Rudi,Surabaya,Food & Beverage,72250000.0,3.7,True,960,2020-06-22
+MRC-00131,Makmur Store,Surabaya,Health & Beauty,3700000.0,5.0,True,64,2020-01-05
+MRC-00132,Kios Sejahtera,Jakarta,Sports,7000000.0,4.0,True,654,2022-04-23
+MRC-00133,Warung Utama,Jakarta,Fashion,7250000.0,4.9,True,43,2022-08-31
+MRC-00134,Berkah Store,Jakarta,Electronics,35750000.0,5.0,True,1414,2023-08-29
+MRC-00135,Depot Sentosa,Palembang,Food & Beverage,4800000.0,4.7,True,53,2020-12-20
+MRC-00136,Bu Sari,Jakarta,Fashion,7500000.0,4.0,True,424,2021-04-02
+MRC-00137,Toko Segar,Surabaya,Electronics,,4.4,True,893,2020-06-25
+MRC-00138,Toko Mandiri,Medan,Food & Beverage,6700000.0,4.2,False,17,2023-02-07
+MRC-00139,Gerai Mulia,Surabaya,Food & Beverage,3150000.0,3.7,True,40,2024-12-14
+MRC-00140,Gerai Mandiri,Yogyakarta,Fashion,6800000.0,4.4,True,105,2024-08-17
+MRC-00141,Bu Ani,Palembang,Food & Beverage,19500000.0,3.6,True,604,2022-01-21
+MRC-00142,Pak Budi,Jakarta,Fashion,1550000.0,,True,90,2020-11-04
+MRC-00143,Prima Store,Surabaya,Food & Beverage,6300000.0,3.9,True,520,2021-11-18
+MRC-00144,Pak Agus,Jakarta,Fashion,2300000.0,4.3,True,227,2024-05-27
+MRC-00145,Pak Joko,Jakarta,Food & Beverage,22600000.0,4.4,True,1432,2022-04-23
+MRC-00146,Sejahtera Store,Jakarta,Sports,850000.0,4.1,False,170,2022-10-19
+MRC-00147,Pak Rudi,Bandung,Electronics,2750000.0,4.5,True,387,2020-04-16
+MRC-00148,Sejahtera Store,Surabaya,Health & Beauty,8450000.0,3.9,False,380,2024-04-02
+MRC-00149,Mulia Store,Jakarta,Health & Beauty,35250000.0,4.7,True,221,2019-11-05
+MRC-00150,Kios Abadi,Jakarta,Fashion,4950000.0,3.5,True,794,2020-07-30
+MRC-00151,Lestari Store,Makassar,Food & Beverage,2750000.0,,True,646,2021-07-13
+MRC-00152,Warung Abadi,Jakarta,Electronics,51500000.0,5.0,True,877,2023-06-16
+MRC-00153,Pak Agus,Jakarta,Electronics,900000.0,3.6,True,379,2023-02-07
+MRC-00154,Toko Sentosa,Surabaya,Health & Beauty,500000.0,3.8,True,15,2020-01-05
+MRC-00155,Kios Makmur,Yogyakarta,Fashion,9100000.0,4.5,True,306,2023-06-05
+MRC-00156,Lestari Store,Jakarta,Food & Beverage,2950000.0,4.3,True,100,2019-02-27
+MRC-00157,Gerai Barokah,Bandung,Food & Beverage,1550000.0,4.4,True,194,2021-12-19
+MRC-00158,Makmur Store,Medan,Fashion,12600000.0,,False,810,2020-05-21
+MRC-00159,Segar Store,Jakarta,Electronics,7200000.0,4.5,True,196,2024-02-06
+MRC-00160,Pak Rudi,Medan,Electronics,2700000.0,4.8,True,490,2023-02-18
+MRC-00161,Mandiri Store,Surabaya,Fashion,1150000.0,4.4,False,270,2021-12-09
+MRC-00162,Bu Fitri,Bandung,Automotive,,4.1,True,1431,2023-04-10
+MRC-00163,Kios Lestari,Bandung,Electronics,11750000.0,4.6,True,207,2023-03-02
+MRC-00164,Pak Budi,Bandung,Food & Beverage,4750000.0,5.0,True,242,2020-03-19
+MRC-00165,Kios Jaya,Jakarta,Food & Beverage,49400000.0,4.1,False,901,2021-08-15
+MRC-00166,Kedai Maju,Semarang,Food & Beverage,1450000.0,3.7,True,116,2024-04-15
+MRC-00167,Mandiri Store,Jakarta,Food & Beverage,850000.0,,True,450,2019-04-13
+MRC-00168,Butik Sejahtera,Jakarta,Food & Beverage,2300000.0,4.1,True,347,2022-09-05
+MRC-00169,Bu Dewi,Jakarta,Food & Beverage,5100000.0,3.0,True,149,2021-06-25
+MRC-00170,Sentosa Store,Bandung,Food & Beverage,7200000.0,4.7,True,69,2019-09-16
+MRC-00171,Maju Store,Bandung,Food & Beverage,,3.9,True,251,2024-03-16
+MRC-00172,Toko Prima,Jakarta,Sports,8200000.0,4.2,True,739,2022-05-22
+MRC-00173,Segar Store,Surabaya,Food & Beverage,1200000.0,4.4,True,494,2023-07-31
+MRC-00174,Berkah Store,Jakarta,Electronics,30450000.0,4.3,False,728,2020-04-22
+MRC-00175,Butik Indah,Bandung,Fashion,4850000.0,4.6,True,110,2020-07-26
+MRC-00176,Kios Makmur,Jakarta,Automotive,,4.0,True,801,2019-07-05
+MRC-00177,Pak Hendra,Medan,Food & Beverage,8100000.0,4.5,True,188,2019-06-02
+MRC-00178,Pak Rudi,Surabaya,Fashion,9300000.0,4.1,True,230,2022-05-31
+MRC-00179,Sentosa Store,Palembang,Education,10650000.0,4.6,False,856,2024-07-10
+MRC-00180,Toko Jaya,Jakarta,Home & Living,9200000.0,4.5,True,794,2020-04-20
+MRC-00181,Bu Sari,Jakarta,Home & Living,11650000.0,3.7,True,365,2020-02-03
+MRC-00182,Bu Ani,Jakarta,Food & Beverage,,4.8,True,1048,2021-08-19
+MRC-00183,Mandiri Store,Palembang,Food & Beverage,6800000.0,3.9,True,534,2020-07-09
+MRC-00184,Bu Sari,Makassar,Electronics,12600000.0,4.6,True,695,2023-05-11
+MRC-00185,Makmur Store,Jakarta,Sports,4800000.0,,True,403,2024-02-02
+MRC-00186,Kios Barokah,Bandung,Electronics,30300000.0,5.0,True,789,2023-02-28
+MRC-00187,Butik Sejahtera,Semarang,Electronics,2350000.0,4.1,False,275,2023-09-13
+MRC-00188,Pak Dedi,Bandung,Food & Beverage,46750000.0,4.0,True,628,2020-09-24
+MRC-00189,Pak Budi,Surabaya,Health & Beauty,5100000.0,4.2,True,683,2023-08-27
+MRC-00190,Indah Store,Jakarta,Food & Beverage,950000.0,4.0,True,529,2020-02-10
+MRC-00191,Bu Wati,Jakarta,Fashion,6250000.0,4.6,True,36,2024-06-27
+MRC-00192,Pak Rudi,Makassar,Fashion,2350000.0,,True,397,2023-07-30
+MRC-00193,Gerai Segar,Makassar,Fashion,14750000.0,3.6,True,973,2022-02-19
+MRC-00194,Kedai Lestari,Bandung,Food & Beverage,2450000.0,3.6,True,664,2019-05-15
+MRC-00195,Berkah Store,Jakarta,Food & Beverage,3150000.0,4.7,False,222,2023-02-26
+MRC-00196,Butik Indah,Jakarta,Electronics,550000.0,5.0,True,735,2021-06-08
+MRC-00197,Indah Store,Medan,Food & Beverage,3100000.0,4.1,True,86,2023-12-22
+MRC-00198,Pak Rudi,Makassar,Electronics,,4.1,True,724,2023-12-27
+MRC-00199,Kios Makmur,Makassar,Food & Beverage,800000.0,4.2,True,205,2021-08-25
+MRC-00200,Pak Budi,Medan,Fashion,13400000.0,4.8,True,362,2023-01-25
+MRC-00201,Segar Store,Bandung,Electronics,13800000.0,3.7,True,565,2020-02-11
+MRC-00202,Depot Sejahtera,Jakarta,Food & Beverage,8950000.0,4.3,False,42,2023-02-13
+MRC-00203,Depot Barokah,Jakarta,Fashion,1650000.0,4.7,False,215,2023-01-09
+MRC-00204,Segar Store,Makassar,Food & Beverage,5050000.0,4.5,False,448,2019-09-06
+MRC-00205,Gerai Berkah,Bandung,Food & Beverage,5350000.0,4.3,True,331,2023-06-19
+MRC-00206,Pak Dedi,Jakarta,Automotive,1300000.0,4.8,True,765,2022-02-04
+MRC-00207,Barokah Store,Jakarta,Fashion,32700000.0,2.7,True,1462,2021-02-16
+MRC-00208,Segar Store,Bandung,Home & Living,15400000.0,4.6,False,271,2020-05-15
+MRC-00209,Kios Barokah,Jakarta,Food & Beverage,4100000.0,3.8,True,22,2024-02-06
+MRC-00210,Bu Fitri,Jakarta,Health & Beauty,5550000.0,3.2,True,443,2020-01-11
+MRC-00211,Prima Store,Bandung,Health & Beauty,6900000.0,4.5,True,712,2021-05-18
+MRC-00212,Pak Joko,Medan,Electronics,500000.0,5.0,True,191,2019-03-29
+MRC-00213,Toko Lestari,Bandung,Fashion,4000000.0,4.1,True,349,2019-07-27
+MRC-00214,Makmur Store,Jakarta,Fashion,2350000.0,4.7,True,228,2022-09-28
+MRC-00215,Bu Rina,Medan,Fashion,1600000.0,5.0,True,492,2021-09-24
+MRC-00216,Toko Mandiri,Jakarta,Sports,3800000.0,4.9,True,233,2020-05-30
+MRC-00217,Barokah Store,Jakarta,Home & Living,46600000.0,5.0,True,854,2021-04-20
+MRC-00218,Pak Joko,Medan,Education,11600000.0,4.6,True,468,2019-10-09
+MRC-00219,Mandiri Store,Bandung,Food & Beverage,2700000.0,4.2,True,192,2021-04-28
+MRC-00220,Pak Budi,Semarang,Health & Beauty,10700000.0,3.3,True,614,2021-06-03
+MRC-00221,Lestari Store,Bandung,Education,28850000.0,4.1,True,1468,2021-08-12
+MRC-00222,Pak Dedi,Bandung,Food & Beverage,16300000.0,3.7,True,1215,2022-09-07
+MRC-00223,Berkah Store,Jakarta,Food & Beverage,5750000.0,5.0,True,136,2020-08-27
+MRC-00224,Bu Wati,Surabaya,Health & Beauty,2450000.0,4.1,True,555,2019-01-12
+MRC-00225,Gerai Barokah,Jakarta,Electronics,12450000.0,4.3,True,874,2022-02-09
+MRC-00226,Jaya Store,Jakarta,Home & Living,8600000.0,4.5,True,797,2020-08-15
+MRC-00227,Pak Joko,Yogyakarta,Food & Beverage,15750000.0,4.2,True,1283,2020-06-16
+MRC-00228,Pak Joko,Surabaya,Home & Living,11550000.0,5.0,True,205,2021-10-23
+MRC-00229,Pak Budi,Makassar,Food & Beverage,18950000.0,3.9,False,1181,2020-12-15
+MRC-00230,Bu Rina,Bandung,Food & Beverage,2800000.0,4.3,True,195,2020-03-26
+MRC-00231,Bu Rina,Semarang,Food & Beverage,26150000.0,3.8,True,769,2019-04-16
+MRC-00232,Bu Wati,Surabaya,Home & Living,6800000.0,3.5,True,124,2020-06-23
+MRC-00233,Mulia Store,Bandung,Electronics,65000000.0,3.9,False,606,2019-03-02
+MRC-00234,Bu Rina,Surabaya,Electronics,,4.2,True,57,2023-01-07
+MRC-00235,Bu Sari,Jakarta,Fashion,43250000.0,4.0,True,1440,2021-09-01
+MRC-00236,Studio Prima,Medan,Sports,6800000.0,3.8,True,455,2022-08-19
+MRC-00237,Prima Store,Jakarta,Fashion,2450000.0,3.4,True,416,2019-03-06
+MRC-00238,Bu Sari,Jakarta,Home & Living,3000000.0,,True,647,2020-12-14
+MRC-00239,Pak Agus,Bandung,Fashion,3650000.0,3.4,True,241,2021-12-22
+MRC-00240,Mulia Store,Jakarta,Fashion,8950000.0,4.6,False,762,2019-08-03
+MRC-00241,Bu Ani,Palembang,Fashion,10050000.0,4.2,True,225,2020-06-03
+MRC-00242,Maju Store,Palembang,Fashion,2700000.0,3.4,True,724,2023-09-21
+MRC-00243,Studio Indah,Makassar,Health & Beauty,,4.0,True,410,2024-11-24
+MRC-00244,Pak Agus,Surabaya,Fashion,70450000.0,3.8,True,1228,2020-04-10
+MRC-00245,Pak Joko,Jakarta,Food & Beverage,,4.4,True,1185,2019-09-18
+MRC-00246,Abadi Store,Palembang,Sports,9050000.0,4.9,False,716,2024-05-04
+MRC-00247,Prima Store,Surabaya,Fashion,5600000.0,3.2,True,251,2024-01-11
+MRC-00248,Depot Indah,Palembang,Electronics,6200000.0,4.3,True,76,2023-01-22
+MRC-00249,Bu Sari,Palembang,Sports,11250000.0,4.1,True,589,2024-10-03
+MRC-00250,Pak Budi,Semarang,Electronics,1550000.0,4.6,True,10,2020-03-22
+MRC-00251,Sentosa Store,Jakarta,Food & Beverage,3950000.0,4.3,True,210,2024-01-26
+MRC-00252,Bu Dewi,Surabaya,Education,700000.0,3.8,True,548,2024-08-25
+MRC-00253,Pak Joko,Semarang,Electronics,8700000.0,4.0,True,615,2021-06-26
+MRC-00254,Gerai Prima,Jakarta,Fashion,11700000.0,3.8,True,909,2019-06-27
+MRC-00255,Sejahtera Store,Jakarta,Food & Beverage,3000000.0,4.8,True,772,2024-11-05
+MRC-00256,Kedai Berkah,Bandung,Home & Living,35600000.0,4.2,False,770,2022-05-20
+MRC-00257,Gerai Abadi,Palembang,Electronics,1200000.0,5.0,True,80,2024-02-20
+MRC-00258,Pak Budi,Medan,Electronics,900000.0,4.2,True,181,2019-05-08
+MRC-00259,Mulia Store,Bandung,Sports,7050000.0,3.8,True,353,2019-09-07
+MRC-00260,Pak Agus,Jakarta,Health & Beauty,18900000.0,3.4,True,953,2024-05-15
+MRC-00261,Studio Abadi,Bandung,Food & Beverage,40650000.0,3.2,True,345,2023-07-04
+MRC-00262,Sejahtera Store,Yogyakarta,Fashion,3100000.0,3.3,False,312,2023-10-13
+MRC-00263,Warung Lestari,Jakarta,Food & Beverage,19650000.0,4.3,True,984,2020-03-18
+MRC-00264,Studio Sejahtera,Surabaya,Health & Beauty,5100000.0,4.5,True,131,2024-07-01
+MRC-00265,Depot Berkah,Makassar,Food & Beverage,4350000.0,3.3,True,291,2023-12-22
+MRC-00266,Pak Dedi,Medan,Electronics,15550000.0,4.7,True,1472,2019-10-29
+MRC-00267,Depot Makmur,Medan,Health & Beauty,11750000.0,3.9,True,725,2019-11-27
+MRC-00268,Prima Store,Medan,Sports,800000.0,4.3,True,766,2022-08-12
+MRC-00269,Bu Fitri,Surabaya,Fashion,31700000.0,5.0,True,212,2020-08-30
+MRC-00270,Pak Joko,Jakarta,Home & Living,28200000.0,4.7,True,1102,2019-09-27
+MRC-00271,Mandiri Store,Semarang,Food & Beverage,2500000.0,4.1,True,387,2020-05-31
+MRC-00272,Bu Fitri,Semarang,Home & Living,8650000.0,3.7,True,410,2022-01-31
+MRC-00273,Segar Store,Makassar,Food & Beverage,9750000.0,3.0,True,392,2022-08-24
+MRC-00274,Pak Hendra,Makassar,Fashion,7350000.0,3.8,True,529,2023-04-10
+MRC-00275,Depot Abadi,Surabaya,Home & Living,2750000.0,4.1,False,561,2024-12-13
+MRC-00276,Indah Store,Surabaya,Food & Beverage,2400000.0,3.7,True,643,2022-04-22
+MRC-00277,Kios Indah,Semarang,Food & Beverage,5200000.0,4.1,True,630,2024-02-02
+MRC-00278,Pak Hendra,Bandung,Health & Beauty,22000000.0,4.2,True,583,2024-09-01
+MRC-00279,Pak Dedi,Medan,Health & Beauty,10300000.0,4.1,True,755,2023-10-29
+MRC-00280,Abadi Store,Semarang,Electronics,3450000.0,3.8,True,721,2020-02-11
+MRC-00281,Kios Sejahtera,Makassar,Health & Beauty,13600000.0,4.3,True,1086,2020-04-13
+MRC-00282,Barokah Store,Jakarta,Electronics,500000.0,4.4,True,485,2021-05-30
+MRC-00283,Lestari Store,Surabaya,Food & Beverage,,3.6,False,218,2023-10-28
+MRC-00284,Pak Budi,Jakarta,Fashion,650000.0,5.0,True,62,2024-01-24
+MRC-00285,Kedai Sejahtera,Bandung,Food & Beverage,3450000.0,4.1,True,332,2021-07-24
+MRC-00286,Utama Store,Jakarta,Sports,1400000.0,4.2,True,735,2023-08-22
+MRC-00287,Gerai Jaya,Surabaya,Electronics,1100000.0,4.6,True,113,2022-10-20
+MRC-00288,Mulia Store,Bandung,Fashion,21700000.0,4.3,True,774,2024-02-01
+MRC-00289,Sentosa Store,Jakarta,Fashion,3050000.0,4.7,True,690,2023-06-22
+MRC-00290,Mulia Store,Bandung,Education,8150000.0,4.4,True,332,2023-08-31
+MRC-00291,Gerai Segar,Jakarta,Food & Beverage,5050000.0,3.9,True,780,2020-01-25
+MRC-00292,Mulia Store,Jakarta,Electronics,9550000.0,4.4,True,319,2022-07-04
+MRC-00293,Pak Rudi,Semarang,Fashion,5900000.0,3.6,True,478,2023-10-15
+MRC-00294,Studio Abadi,Surabaya,Electronics,,4.3,True,115,2022-07-04
+MRC-00295,Butik Maju,Jakarta,Food & Beverage,17800000.0,4.2,True,950,2021-11-10
+MRC-00296,Segar Store,Surabaya,Sports,2950000.0,4.1,False,785,2023-03-14
+MRC-00297,Sentosa Store,Medan,Education,800000.0,4.1,True,233,2020-09-17
+MRC-00298,Pak Rudi,Jakarta,Electronics,3200000.0,3.2,True,501,2024-04-26
+MRC-00299,Pak Agus,Bandung,Health & Beauty,32600000.0,3.9,False,1203,2019-10-02
+MRC-00300,Depot Sejahtera,Jakarta,Sports,,4.3,True,618,2020-01-09
+MRC-00301,Mulia Store,Jakarta,Health & Beauty,3500000.0,4.3,True,705,2019-12-16
+MRC-00302,Berkah Store,Bandung,Food & Beverage,3500000.0,3.6,True,276,2020-01-17
+MRC-00303,Barokah Store,Bandung,Electronics,3650000.0,4.9,True,6,2023-11-04
+MRC-00304,Bu Dewi,Bandung,Electronics,65100000.0,3.7,True,618,2020-01-31
+MRC-00305,Utama Store,Medan,Fashion,8500000.0,4.7,True,726,2023-03-07
+MRC-00306,Depot Lestari,Yogyakarta,Health & Beauty,9000000.0,4.4,True,515,2020-06-16
+MRC-00307,Warung Lestari,Surabaya,Education,,3.8,True,321,2019-09-03
+MRC-00308,Mandiri Store,Jakarta,Sports,7150000.0,,False,17,2022-09-12
+MRC-00309,Bu Dewi,Semarang,Fashion,3900000.0,3.5,True,612,2020-05-15
+MRC-00310,Toko Prima,Jakarta,Food & Beverage,4250000.0,4.7,True,502,2023-08-10
+MRC-00311,Makmur Store,Surabaya,Automotive,4900000.0,4.8,False,737,2022-12-19
+MRC-00312,Makmur Store,Jakarta,Home & Living,5150000.0,3.8,True,242,2023-09-29
+MRC-00313,Kios Mulia,Jakarta,Food & Beverage,12900000.0,5.0,False,631,2019-07-30
+MRC-00314,Sejahtera Store,Palembang,Sports,5700000.0,4.1,True,342,2022-03-24
+MRC-00315,Barokah Store,Semarang,Home & Living,,4.4,True,243,2022-07-03
+MRC-00316,Indah Store,Medan,Fashion,4850000.0,4.3,True,175,2022-12-11
+MRC-00317,Maju Store,Surabaya,Electronics,5900000.0,4.1,True,610,2020-02-29
+MRC-00318,Maju Store,Jakarta,Fashion,500000.0,,True,665,2024-09-09
+MRC-00319,Depot Berkah,Jakarta,Food & Beverage,16150000.0,4.6,False,580,2021-05-21
+MRC-00320,Bu Fitri,Jakarta,Fashion,8150000.0,3.2,True,571,2020-09-25
+MRC-00321,Butik Sejahtera,Bandung,Home & Living,17850000.0,4.9,True,344,2024-05-29
+MRC-00322,Pak Budi,Medan,Food & Beverage,500000.0,3.3,False,632,2021-07-07
+MRC-00323,Bu Ani,Bandung,Fashion,66050000.0,4.8,True,562,2020-03-19
+MRC-00324,Gerai Sejahtera,Jakarta,Fashion,4550000.0,4.8,True,205,2022-12-05
+MRC-00325,Kedai Sejahtera,Palembang,Electronics,,3.6,False,1273,2023-02-14
+MRC-00326,Depot Prima,Medan,Sports,1500000.0,4.0,True,718,2020-04-15
+MRC-00327,Gerai Abadi,Bandung,Fashion,11200000.0,3.6,True,1288,2022-02-15
+MRC-00328,Bu Rina,Bandung,Fashion,1500000.0,4.1,False,483,2021-07-15
+MRC-00329,Makmur Store,Surabaya,Health & Beauty,2500000.0,4.0,True,569,2023-10-24
+MRC-00330,Pak Agus,Jakarta,Fashion,53550000.0,4.6,True,554,2019-04-18
+MRC-00331,Pak Rudi,Surabaya,Food & Beverage,4250000.0,4.9,True,388,2021-12-31
+MRC-00332,Kedai Maju,Medan,Fashion,6950000.0,5.0,True,696,2019-04-29
+MRC-00333,Warung Lestari,Jakarta,Food & Beverage,15300000.0,3.9,False,999,2021-01-08
+MRC-00334,Mandiri Store,Jakarta,Food & Beverage,9750000.0,,True,312,2022-01-24
+MRC-00335,Bu Wati,Jakarta,Fashion,6450000.0,3.3,True,653,2022-06-19
+MRC-00336,Utama Store,Jakarta,Fashion,8350000.0,3.8,True,698,2022-10-23
+MRC-00337,Toko Mandiri,Semarang,Sports,96400000.0,4.7,True,1387,2022-12-08
+MRC-00338,Bu Dewi,Medan,Fashion,5000000.0,5.0,True,5,2019-01-26
+MRC-00339,Toko Utama,Surabaya,Electronics,6850000.0,3.5,True,48,2021-01-13
+MRC-00340,Segar Store,Jakarta,Electronics,19000000.0,3.9,True,1364,2020-08-09
+MRC-00341,Pak Agus,Surabaya,Food & Beverage,20300000.0,4.2,True,1025,2023-06-30
+MRC-00342,Warung Barokah,Surabaya,Electronics,22350000.0,4.4,True,1351,2019-10-13
+MRC-00343,Bu Wati,Jakarta,Food & Beverage,11550000.0,3.8,True,597,2020-08-04
+MRC-00344,Pak Joko,Surabaya,Education,1350000.0,4.4,True,787,2019-05-06
+MRC-00345,Butik Berkah,Surabaya,Food & Beverage,38250000.0,3.9,True,1079,2020-01-11
+MRC-00346,Segar Store,Bandung,Fashion,1350000.0,4.2,True,485,2024-12-12
+MRC-00347,Jaya Store,Bandung,Food & Beverage,7700000.0,4.5,True,241,2021-05-31
+MRC-00348,Barokah Store,Jakarta,Automotive,2150000.0,4.2,True,76,2023-03-21
+MRC-00349,Pak Hendra,Surabaya,Fashion,4950000.0,4.0,True,671,2023-09-16
+MRC-00350,Bu Sari,Bandung,Electronics,7950000.0,4.1,True,194,2024-02-02
+MRC-00351,Makmur Store,Surabaya,Food & Beverage,,4.2,True,272,2022-10-28
+MRC-00352,Bu Fitri,Semarang,Health & Beauty,8900000.0,4.0,True,325,2020-10-06
+MRC-00353,Bu Rina,Bandung,Food & Beverage,37350000.0,4.1,True,662,2023-02-24
+MRC-00354,Bu Fitri,Jakarta,Sports,9250000.0,5.0,False,236,2022-06-30
+MRC-00355,Abadi Store,Jakarta,Food & Beverage,4000000.0,4.5,True,46,2022-08-21
+MRC-00356,Segar Store,Bandung,Food & Beverage,17100000.0,4.0,True,1007,2019-12-14
+MRC-00357,Pak Agus,Jakarta,Food & Beverage,22450000.0,4.6,False,386,2019-08-04
+MRC-00358,Barokah Store,Bandung,Fashion,1200000.0,4.0,True,619,2020-09-29
+MRC-00359,Toko Maju,Palembang,Electronics,11000000.0,4.8,False,931,2020-10-06
+MRC-00360,Sejahtera Store,Bandung,Food & Beverage,12500000.0,4.4,True,1413,2019-07-23
+MRC-00361,Mandiri Store,Surabaya,Health & Beauty,3750000.0,4.1,True,485,2019-12-01
+MRC-00362,Bu Dewi,Bandung,Fashion,28050000.0,4.4,True,628,2022-01-19
+MRC-00363,Barokah Store,Surabaya,Electronics,4500000.0,3.3,True,510,2023-12-20
+MRC-00364,Depot Segar,Bandung,Fashion,6250000.0,3.6,True,737,2023-10-03
+MRC-00365,Makmur Store,Palembang,Fashion,4350000.0,3.5,True,729,2024-06-12
+MRC-00366,Sejahtera Store,Surabaya,Electronics,,4.3,True,428,2023-12-16
+MRC-00367,Indah Store,Palembang,Food & Beverage,1400000.0,5.0,True,411,2023-08-24
+MRC-00368,Barokah Store,Makassar,Food & Beverage,950000.0,5.0,True,572,2022-01-23
+MRC-00369,Lestari Store,Jakarta,Home & Living,36500000.0,4.6,True,1057,2021-06-01
+MRC-00370,Pak Rudi,Jakarta,Education,1950000.0,4.5,False,346,2024-09-29
+MRC-00371,Sentosa Store,Jakarta,Fashion,1600000.0,3.2,True,618,2020-04-11
+MRC-00372,Gerai Jaya,Jakarta,Food & Beverage,500000.0,3.9,True,497,2022-11-14
+MRC-00373,Studio Abadi,Jakarta,Electronics,,3.8,True,196,2023-10-27
+MRC-00374,Pak Dedi,Medan,Fashion,1100000.0,3.9,True,503,2020-03-30
+MRC-00375,Pak Hendra,Jakarta,Food & Beverage,38650000.0,4.1,True,436,2022-03-06
+MRC-00376,Pak Rudi,Jakarta,Food & Beverage,,3.9,True,1417,2024-06-16
+MRC-00377,Abadi Store,Semarang,Health & Beauty,2350000.0,3.1,True,231,2024-11-28
+MRC-00378,Toko Maju,Jakarta,Electronics,80400000.0,4.6,True,970,2022-06-17
+MRC-00379,Studio Utama,Semarang,Food & Beverage,17500000.0,3.6,True,957,2019-07-06
+MRC-00380,Kios Prima,Jakarta,Food & Beverage,3600000.0,4.3,True,153,2021-06-22
+MRC-00381,Pak Joko,Jakarta,Food & Beverage,500000.0,,True,119,2023-06-07
+MRC-00382,Sentosa Store,Medan,Health & Beauty,84200000.0,3.7,True,335,2019-08-13
+MRC-00383,Pak Joko,Bandung,Food & Beverage,1000000.0,2.8,True,67,2019-02-01
+MRC-00384,Utama Store,Makassar,Food & Beverage,700000.0,4.0,True,108,2021-04-17
+MRC-00385,Pak Joko,Medan,Home & Living,18350000.0,,True,991,2022-05-19
+MRC-00386,Utama Store,Semarang,Food & Beverage,100700000.0,5.0,True,370,2021-05-15
+MRC-00387,Maju Store,Jakarta,Electronics,28350000.0,,True,358,2020-07-16
+MRC-00388,Maju Store,Jakarta,Food & Beverage,10600000.0,4.5,True,400,2021-11-12
+MRC-00389,Toko Utama,Medan,Food & Beverage,11000000.0,3.9,True,1161,2022-03-31
+MRC-00390,Butik Jaya,Semarang,Food & Beverage,15000000.0,4.1,True,782,2022-09-05
+MRC-00391,Bu Fitri,Yogyakarta,Health & Beauty,13350000.0,5.0,True,1075,2020-05-06
+MRC-00392,Bu Sari,Surabaya,Home & Living,7550000.0,3.4,True,123,2019-02-01
+MRC-00393,Gerai Utama,Surabaya,Home & Living,6100000.0,4.3,True,297,2024-07-30
+MRC-00394,Maju Store,Medan,Fashion,4950000.0,4.5,True,375,2023-10-30
+MRC-00395,Pak Agus,Jakarta,Electronics,2150000.0,4.8,True,248,2020-12-20
+MRC-00396,Pak Agus,Palembang,Food & Beverage,3800000.0,4.3,True,584,2020-06-13
+MRC-00397,Jaya Store,Semarang,Food & Beverage,700000.0,4.4,True,730,2023-04-07
+MRC-00398,Kios Sejahtera,Surabaya,Sports,,4.0,False,222,2024-12-21
+MRC-00399,Makmur Store,Medan,Food & Beverage,1600000.0,4.3,True,181,2021-07-31
+MRC-00400,Berkah Store,Medan,Food & Beverage,1400000.0,4.0,True,303,2024-08-11
+MRC-00401,Bu Fitri,Jakarta,Food & Beverage,6650000.0,4.5,True,680,2022-12-21
+MRC-00402,Kios Berkah,Makassar,Food & Beverage,28600000.0,4.0,True,570,2019-10-23
+MRC-00403,Kios Utama,Surabaya,Food & Beverage,16200000.0,4.4,True,302,2023-06-15
+MRC-00404,Depot Jaya,Semarang,Electronics,800000.0,4.2,True,312,2019-06-23
+MRC-00405,Kios Abadi,Jakarta,Fashion,1600000.0,4.8,True,574,2023-11-22
+MRC-00406,Abadi Store,Makassar,Sports,16650000.0,4.2,True,1201,2019-03-18
+MRC-00407,Makmur Store,Surabaya,Home & Living,1650000.0,3.2,True,109,2024-02-27
+MRC-00408,Kios Segar,Jakarta,Fashion,4100000.0,4.9,False,232,2019-11-15
+MRC-00409,Jaya Store,Makassar,Food & Beverage,10400000.0,3.7,False,1348,2022-07-06
+MRC-00410,Studio Abadi,Jakarta,Fashion,1650000.0,3.8,True,704,2023-10-25
+MRC-00411,Warung Makmur,Jakarta,Electronics,6100000.0,3.9,True,498,2023-07-15
+MRC-00412,Kios Jaya,Palembang,Food & Beverage,1050000.0,5.0,True,87,2023-09-07
+MRC-00413,Toko Sentosa,Palembang,Electronics,2600000.0,3.0,True,190,2022-03-31
+MRC-00414,Mandiri Store,Bandung,Fashion,7900000.0,5.0,True,256,2020-04-16
+MRC-00415,Pak Agus,Bandung,Electronics,750000.0,4.8,True,359,2023-07-18
+MRC-00416,Studio Abadi,Surabaya,Fashion,9100000.0,4.3,True,754,2019-03-27
+MRC-00417,Maju Store,Jakarta,Food & Beverage,5250000.0,4.2,False,700,2022-08-23
+MRC-00418,Bu Wati,Jakarta,Education,10450000.0,4.4,True,1175,2020-12-04
+MRC-00419,Mandiri Store,Bandung,Health & Beauty,7050000.0,4.5,True,613,2024-02-28
+MRC-00420,Bu Ani,Medan,Food & Beverage,27700000.0,4.6,True,997,2023-01-22
+MRC-00421,Pak Rudi,Semarang,Home & Living,6250000.0,4.5,True,464,2019-12-27
+MRC-00422,Gerai Prima,Semarang,Fashion,3200000.0,,True,476,2023-11-24
+MRC-00423,Kios Prima,Jakarta,Sports,6200000.0,4.1,True,724,2020-03-09
+MRC-00424,Kedai Sejahtera,Surabaya,Home & Living,,4.1,True,1453,2021-09-23
+MRC-00425,Toko Makmur,Jakarta,Fashion,5700000.0,4.1,True,496,2023-11-20
+MRC-00426,Studio Abadi,Bandung,Food & Beverage,5650000.0,4.8,True,141,2023-06-29
+MRC-00427,Pak Agus,Surabaya,Food & Beverage,2300000.0,4.5,True,371,2024-11-16
+MRC-00428,Maju Store,Makassar,Electronics,2400000.0,2.6,True,188,2019-11-19
+MRC-00429,Gerai Maju,Surabaya,Electronics,1000000.0,4.6,True,592,2023-06-10
+MRC-00430,Bu Rina,Jakarta,Food & Beverage,43950000.0,4.3,True,857,2022-06-24
+MRC-00431,Pak Hendra,Jakarta,Food & Beverage,1200000.0,4.2,True,476,2022-10-22
+MRC-00432,Gerai Lestari,Medan,Home & Living,2300000.0,4.0,True,379,2021-06-26
+MRC-00433,Indah Store,Bandung,Automotive,2250000.0,4.8,True,658,2022-09-26
+MRC-00434,Pak Agus,Jakarta,Electronics,15750000.0,4.7,False,1081,2020-11-19
+MRC-00435,Pak Dedi,Jakarta,Food & Beverage,3750000.0,3.8,True,541,2019-11-09
+MRC-00436,Jaya Store,Medan,Food & Beverage,24050000.0,4.4,True,1420,2024-09-21
+MRC-00437,Pak Dedi,Jakarta,Food & Beverage,2400000.0,3.7,True,583,2020-04-12
+MRC-00438,Bu Sari,Semarang,Sports,7500000.0,3.4,True,254,2024-12-13
+MRC-00439,Segar Store,Medan,Food & Beverage,1950000.0,3.9,True,514,2024-09-19
+MRC-00440,Toko Berkah,Jakarta,Electronics,70700000.0,4.7,True,932,2021-03-05
+MRC-00441,Kios Mandiri,Jakarta,Food & Beverage,1250000.0,4.7,True,77,2022-12-02
+MRC-00442,Pak Agus,Yogyakarta,Electronics,7800000.0,4.5,True,286,2022-12-09
+MRC-00443,Abadi Store,Surabaya,Electronics,11500000.0,4.6,False,622,2020-08-27
+MRC-00444,Depot Utama,Surabaya,Home & Living,8850000.0,4.5,True,14,2021-08-25
+MRC-00445,Utama Store,Semarang,Food & Beverage,4300000.0,3.8,True,215,2020-02-26
+MRC-00446,Maju Store,Palembang,Food & Beverage,4600000.0,4.4,False,156,2020-08-22
+MRC-00447,Bu Fitri,Yogyakarta,Food & Beverage,5650000.0,4.6,True,9,2021-11-14
+MRC-00448,Abadi Store,Medan,Sports,4500000.0,4.6,True,199,2021-03-19
+MRC-00449,Warung Lestari,Surabaya,Sports,17100000.0,4.9,True,771,2020-12-11
+MRC-00450,Utama Store,Jakarta,Electronics,76450000.0,4.6,True,370,2020-09-18
+MRC-00451,Mandiri Store,Medan,Electronics,,4.4,True,117,2019-11-05
+MRC-00452,Berkah Store,Bandung,Electronics,1000000.0,4.8,True,275,2020-12-26
+MRC-00453,Gerai Prima,Surabaya,Food & Beverage,4800000.0,4.2,True,167,2024-07-16
+MRC-00454,Pak Agus,Makassar,Sports,119100000.0,3.7,True,372,2024-03-15
+MRC-00455,Kios Mandiri,Jakarta,Fashion,2050000.0,4.1,True,109,2024-01-13
+MRC-00456,Kedai Abadi,Surabaya,Fashion,,3.8,True,862,2022-08-16
+MRC-00457,Bu Dewi,Jakarta,Fashion,40350000.0,,True,652,2022-07-18
+MRC-00458,Lestari Store,Surabaya,Food & Beverage,2750000.0,,False,286,2020-09-10
+MRC-00459,Makmur Store,Jakarta,Food & Beverage,10650000.0,3.8,True,549,2023-12-07
+MRC-00460,Bu Wati,Jakarta,Health & Beauty,38000000.0,,False,693,2019-10-07
+MRC-00461,Pak Hendra,Jakarta,Food & Beverage,3400000.0,3.2,False,355,2024-04-04
+MRC-00462,Depot Barokah,Bandung,Electronics,4200000.0,4.3,True,438,2023-12-17
+MRC-00463,Barokah Store,Medan,Food & Beverage,2650000.0,4.2,True,144,2022-05-25
+MRC-00464,Prima Store,Bandung,Fashion,1550000.0,3.8,True,475,2022-01-30
+MRC-00465,Kedai Barokah,Palembang,Food & Beverage,2450000.0,4.6,True,136,2019-08-19
+MRC-00466,Utama Store,Surabaya,Fashion,1200000.0,4.7,True,91,2022-12-12
+MRC-00467,Maju Store,Jakarta,Health & Beauty,5600000.0,3.3,True,692,2024-09-09
+MRC-00468,Bu Wati,Makassar,Food & Beverage,2100000.0,3.8,True,187,2019-10-31
+MRC-00469,Bu Ani,Jakarta,Electronics,7100000.0,3.8,False,372,2022-06-25
+MRC-00470,Jaya Store,Palembang,Fashion,800000.0,3.7,False,133,2024-03-06
+MRC-00471,Maju Store,Jakarta,Electronics,8000000.0,4.7,True,250,2024-01-26
+MRC-00472,Jaya Store,Palembang,Education,14650000.0,4.1,True,819,2019-06-04
+MRC-00473,Segar Store,Jakarta,Health & Beauty,500000.0,4.1,True,582,2019-08-22
+MRC-00474,Bu Ani,Makassar,Food & Beverage,8400000.0,3.1,True,674,2023-02-19
+MRC-00475,Bu Fitri,Surabaya,Food & Beverage,23500000.0,4.5,True,1227,2022-03-21
+MRC-00476,Mulia Store,Yogyakarta,Food & Beverage,1250000.0,3.5,True,153,2019-11-11
+MRC-00477,Gerai Sentosa,Jakarta,Electronics,40100000.0,4.2,True,1316,2020-01-05
+MRC-00478,Mandiri Store,Bandung,Food & Beverage,8900000.0,4.4,False,632,2024-09-07
+MRC-00479,Prima Store,Palembang,Fashion,2300000.0,4.9,True,730,2023-04-24
+MRC-00480,Indah Store,Surabaya,Electronics,5000000.0,3.5,True,473,2024-03-10
+MRC-00481,Gerai Maju,Bandung,Fashion,10500000.0,2.5,True,1118,2019-06-18
+MRC-00482,Bu Sari,Medan,Health & Beauty,5900000.0,4.3,True,485,2024-01-17
+MRC-00483,Abadi Store,Surabaya,Food & Beverage,10250000.0,5.0,True,205,2021-02-10
+MRC-00484,Pak Hendra,Bandung,Food & Beverage,1750000.0,4.9,False,769,2022-08-09
+MRC-00485,Warung Prima,Bandung,Health & Beauty,6600000.0,4.3,True,147,2024-05-02
+MRC-00486,Pak Dedi,Makassar,Fashion,950000.0,3.9,True,254,2024-08-15
+MRC-00487,Bu Sari,Jakarta,Health & Beauty,4700000.0,4.6,True,306,2020-09-09
+MRC-00488,Sentosa Store,Jakarta,Fashion,1800000.0,3.7,True,29,2019-09-11
+MRC-00489,Studio Jaya,Palembang,Food & Beverage,2200000.0,4.5,True,793,2024-01-20
+MRC-00490,Toko Abadi,Makassar,Home & Living,23750000.0,4.5,True,487,2020-02-28
+MRC-00491,Kedai Abadi,Surabaya,Home & Living,19950000.0,4.8,True,1369,2022-11-07
+MRC-00492,Bu Rina,Bandung,Health & Beauty,11150000.0,5.0,True,807,2019-12-12
+MRC-00493,Pak Rudi,Jakarta,Food & Beverage,1450000.0,4.4,True,368,2024-08-28
+MRC-00494,Mulia Store,Jakarta,Electronics,,3.9,True,307,2020-12-07
+MRC-00495,Abadi Store,Surabaya,Fashion,23100000.0,4.2,False,656,2019-06-10
+MRC-00496,Depot Sentosa,Surabaya,Food & Beverage,6350000.0,3.2,True,95,2021-10-11
+MRC-00497,Studio Sejahtera,Bandung,Sports,87150000.0,3.8,True,1425,2023-11-29
+MRC-00498,Bu Fitri,Jakarta,Food & Beverage,8600000.0,4.0,True,665,2023-12-05
+MRC-00499,Bu Sari,Yogyakarta,Education,6750000.0,3.9,True,743,2024-11-16
+MRC-00500,Kios Indah,Yogyakarta,Fashion,3700000.0,4.3,True,730,2024-11-11
