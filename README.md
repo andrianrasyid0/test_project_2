@@ -1,4 +1,4 @@
-# test_project_2# Dashboard Power BI
+# Dashboard Power BI
 
 Project ini bertujuan untuk membuat dashboard terkait dengan retail Superstore
 
