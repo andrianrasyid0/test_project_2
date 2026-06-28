@@ -1,4 +1,4 @@
-<center><img src="aset\fotoco.jpg"></img></center>
+<center><img src="asset\fotoco.jpg"></img></center>
 
 # Dashboard Power BI
 
